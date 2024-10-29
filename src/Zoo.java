@@ -7,7 +7,7 @@ public class Zoo {
         int[] arr = {1, 0, 2, 6, 3, 4, 5};
         int s = 5;
         Map<Integer, Integer> store = new HashMap<>();
-
+        //asdasdasd
         for (int i = 0; i < arr.length; i++) {
             
         }
